@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>es-ve@dictionaries.addons.mozilla.org</em:id>
+    <em:name>Diccionario en Español para Venezuela</em:name>
+    <em:version>1.1.18</em:version>
+    <em:type>2</em:type>
+    <em:unpack>true</em:unpack>
+    <em:creator>Christian González</em:creator>
+    <em:developer>Christian González</em:developer>
+    <em:contributor>Alexander Salas</em:contributor>
+    <em:translator>Fatma Youssef</em:translator>
+    <em:description>Habilita la revisión ortográfica en español para Venezuela, la separación silábica y los sinónimos</em:description>
+    <em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
+    <!-- Spanish -->
+    <em:localized>
+      <Description>
+        <em:locale>es</em:locale>
+        <em:name>Diccionario en Español para Venezuela</em:name>
+        <em:description>Corrector ortográfico en español para Venezuela</em:description>
+        <em:creator>Christian González</em:creator>
+        <em:developer>Christian González</em:developer>
+        <em:translator>Christian González</em:translator>
+        <em:translator>Fatma Youssef</em:translator>
+        <em:contributor>Alexander Salas</em:contributor>
+        <em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
+      </Description>
+    </em:localized>
+    <!-- English -->
+    <em:localized>
+      <Description>
+        <em:locale>en</em:locale>
+        <em:name>Spanish (Venezuela) spell check dictionary</em:name>
+        <em:description>Spanish (Venezuela) spell check dictionary</em:description>
+        <em:creator>Christian González</em:creator>
+        <em:developer>Christian González</em:developer>
+        <em:translator>Christian González</em:translator>
+        <em:translator>Fatma Youssef</em:translator>
+        <em:contributor>Alexander Salas</em:contributor>
+        <em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
+      </Description>
+    </em:localized>
+    <!-- Mozilla Firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>39.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Mozilla Thunderbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>39.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Mozilla SeaMonkey -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>2.36</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Mozilla Mobile -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
+        <em:minVersion>0.1</em:minVersion>
+        <em:maxVersion>39.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Android -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+        <em:minVersion>10.0a1</em:minVersion>
+        <em:maxVersion>39.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Instantbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
+        <em:minVersion>0.2a1pre</em:minVersion>
+        <em:maxVersion>1.6a1pre</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Nvu/KompoZer -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{136c295a-4a5a-41cf-bf24-5cee526720d5}</em:id>
+        <em:minVersion>0.7.99.3</em:minVersion>
+        <em:maxVersion>0.8a4</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- KompoZer -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{20aa4150-b5f4-11de-8a39-0800200c9a66}</em:id>
+        <em:minVersion>0.8b1</em:minVersion>
+        <em:maxVersion>0.8.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <!-- Sunbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{718e30fb-e89b-41dd-9da7-e25a45638b28}</em:id>
+        <em:minVersion>0.5</em:minVersion>
+        <em:maxVersion>1.0pre</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>
