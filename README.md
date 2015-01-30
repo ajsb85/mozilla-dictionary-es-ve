@@ -1,4 +1,4 @@
-### Diccionario en español para Venezuela (http://es-ve.sourceforge.net/)
+### Diccionario en español para Venezuela
 **Sus principales características son:**
 
 *     Más DE 87.000 lemas y sus respectivas conjugaciones.
