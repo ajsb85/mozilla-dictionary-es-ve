@@ -18,3 +18,6 @@
 *     Nombres Cristianos de personas
 *     Apellidos utilizados en Venezuela
 
+#### Descarga
+https://addons.mozilla.org/addon/diccionario-español-venezuela/ <br>
+https://addons.instantbird.org/addon/379/
